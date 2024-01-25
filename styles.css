@@ -1,0 +1,23 @@
+.padding-left {
+    padding-left: 1%;
+}
+
+.padding-right {
+    padding-right: 1%;
+}
+
+.custom-btn {
+    background-color: #333333;
+    color: white;
+    border-radius: 0;
+    outline: none;
+}
+
+.custom-btn:hover {
+    background-color: #a7a7a7;
+}
+
+.custom-btn:focus,
+.custom-btn.focus {
+    outline: none !important;
+}
